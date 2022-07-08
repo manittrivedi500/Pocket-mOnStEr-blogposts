@@ -1,0 +1,39 @@
+html {
+background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c0158dfb-48ef-4aeb-b69d-7594289d1f1b/da9yz7c-29f45cd6-62a3-44c9-aa09-200cf7ea598c.png");
+ background-size: cover;
+ display: flex;
+ justify-content: center;
+}
+
+h1 {
+  color: red;
+  margin-bottom: 160px
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+  a {
+  color: #39FF14;
+  display: block;
+  margin: 20px 0 20px 0;
+}
+
+.home {
+  margin-left: auto;
+  margin-right: auto;
+  width: 82px;
+  border: 5px solid yellow;
+  padding: 5px;
+  border-radius: 15px;
+  color: #01bFFF;
+}
